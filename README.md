@@ -73,19 +73,19 @@ void loop()
 
 ## Schematic
 
-![schematic dig](schematic dig.png)
+![SCHEMATIC](SCHEMATIC.png)
 
 ---
 
 ## PCB Layout
 
-![PCBlayout (2)](PCBlayout (2).png)
+![PCBLAYOUT](PCBLAYOUT.png)
 
 ---
 
 ## 3D PCB View
 
-![3dview (2)](3dview (2).jpeg)
+![3DVIEW](3DVIEW.jpeg)
 
 ---
 
