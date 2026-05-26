@@ -79,13 +79,13 @@ void loop()
 
 ## PCB Layout
 
-![PCBlayout(2)](PCBlayout(2).png)
+![PCBlayout (2)](PCBlayout (2).png)
 
 ---
 
 ## 3D PCB View
 
-![3dview(2)](3dview(2).png)
+![3dview (2)](3dview (2).png)
 
 ---
 
