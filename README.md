@@ -85,7 +85,7 @@ void loop()
 
 ## 3D PCB View
 
-![3DVIEW](3DVIEW.jpeg)
+![3DVIEW](3DVIEW.png)
 
 ---
 
